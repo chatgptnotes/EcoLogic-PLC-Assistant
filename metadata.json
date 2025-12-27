@@ -1,0 +1,5 @@
+{
+  "name": "EcoLogic PLC Assistant",
+  "description": "An AI-powered logic generator specifically designed for Schneider Electric's EcoStruxure Machine Expert - Basic. Generate Instruction List (IL) and Ladder-ready logic for M221 PLCs.",
+  "requestFramePermissions": []
+}
